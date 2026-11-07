@@ -4,7 +4,7 @@
 
 [LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)
 
-(https://linkedin.com/in/siya-shinod-79baba407
+(https://linkedin.com/in/siya-shinod-79baba407)
 
 [GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
