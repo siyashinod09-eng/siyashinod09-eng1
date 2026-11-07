@@ -2,21 +2,17 @@
 
 ### 👩‍💻 First-Year CSE Student | Aspiring Cybersecurity Professional | Long-term: Ethical Hacking & Secure Systems
 
-[
+[LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)
+(https://linkedin.com/in/siya-shinod-79baba407
 
-](https://linkedin.com/in/siya-shinod-79baba407)
-[
+[GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+(https://github.com/siyashinod09-eng)
 
-](https://github.com/siyashinod09-eng)
-[
+[Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)
 
-![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)
-
-](mailto:siyashinod09@gmail.com)
+(mailto:siyashinod09@gmail.com)
 
 ---
 
